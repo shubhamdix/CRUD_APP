@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "id": "9",
+      "name": "Shubham Dixit",
+      "email": "shubhamdixit27198@gmail.com"
+    },
+    {
+      "id": "10",
+      "name": "Satyam Gaikwad",
+      "email": "satyam27198@gmail.com"
+    },
+    {
+      "id": "11",
+      "name": "Shubham Dixit",
+      "email": "shubhamdixit27198@gmail.com"
+    },
+    {
+      "id": "12",
+      "name": "Shubham Dixit",
+      "email": "shubhamdixit27198@gmail.com",
+      "username": "shubhamdixit",
+      "phone": "9604924575",
+      "website": "shubham.com"
+    },
+    {
+      "id": "131",
+      "name": "Shivam Shendge",
+      "email": "shivam@gmail.com"
+    },
+    {
+      "id": "1311",
+      "name": "Rohan Padale",
+      "email": "rohan@gmail.com"
+    }
+  ]
+}
